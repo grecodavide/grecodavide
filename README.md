@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **grecodavide/grecodavide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Davide Greco
+I'm a university student interested in GNU/Linux and FOSS software in general who wants to have fun learning.
+Currently learning:
+- lua
+- rust
+- bash
+
+Currently working on:
+- neovim configuration
+- scripting in general
