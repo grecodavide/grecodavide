@@ -13,12 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Davide Greco
-I'm a university student interested in GNU/Linux and FOSS software in general who wants to have fun learning.
+I'm a university student interested in GNU/Linux and FOSS software in general who likes trying to learn something new.
 Currently learning:
 - lua
 - rust
 - bash
-
-Currently working on:
-- neovim configuration
-- scripting in general
