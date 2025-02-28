@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Davide Greco
-I'm a university student interested in GNU/Linux and FOSS software in general who likes trying to learn something new.
-Currently learning:
+I'm a computer science student interested in GNU/Linux and FOSS software in general who likes trying to learn something new.
+Currently using:
 - lua
-- rust
 - bash
+- C++
+- C
